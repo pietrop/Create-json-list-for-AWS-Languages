@@ -1,8 +1,17 @@
-# Create-json-list-for-AWS-Languages
+# Create json list for AWS Languages
 
 To make a list of AWS supported languages from [What Is Amazon Transcribe?](https://docs.aws.amazon.com/transcribe/latest/dg/what-is-transcribe.html)
 
+Note: this is for the non streaming service.
+
 ## Usage
+```
+git clone git@github.com:pietrop/Create-json-list-for-AWS-Languages.git
+```
+
+```
+cd Create-json-list-for-AWS-Languages
+```
 
 ```
 npm install
@@ -13,6 +22,8 @@ run
 ```
 npm start
 ```
+
+see `languages.json` file.
 
 ## How does it work
 
@@ -27,11 +38,3 @@ The json list of languages.
 See [`./languages.json`](./languages.json) if interested in `json `representation.
 
 List of languge in the repo is up to date to the 27th November Aug 2019.
-
-
-see belwo or in[`./languages.html`](./languages.html) for html element to add to your front end.
-
-
-## Contributor
-
-- [Pietro](http://twitter.com/pietropassarell)
