@@ -1,1 +1,126 @@
-{}
+[
+  {
+    "Language": "Gulf Arabic ",
+    "languageCode": "ar-AE"
+  },
+  {
+    "Language": "Modern Standard Arabic ",
+    "languageCode": "ar-SA"
+  },
+  {
+    "Language": "Dutch ",
+    "languageCode": "nl-NL"
+  },
+  {
+    "Language": "Australian English ",
+    "languageCode": "en-AU"
+  },
+  {
+    "Language": "British English ",
+    "languageCode": "en-GB"
+  },
+  {
+    "Language": "Indian English ",
+    "languageCode": "en-IN"
+  },
+  {
+    "Language": "Irish English ",
+    "languageCode": "en-IE"
+  },
+  {
+    "Language": "Scottish English ",
+    "languageCode": "en-AB"
+  },
+  {
+    "Language": "US English ",
+    "languageCode": "en-US"
+  },
+  {
+    "Language": "Welsh English ",
+    "languageCode": "en-WL"
+  },
+  {
+    "Language": "Spanish ",
+    "languageCode": "es-ES"
+  },
+  {
+    "Language": "US Spanish ",
+    "languageCode": "es-US"
+  },
+  {
+    "Language": "French ",
+    "languageCode": "fr-FR"
+  },
+  {
+    "Language": "Canadian French ",
+    "languageCode": "fr-CA"
+  },
+  {
+    "Language": "Farsi ",
+    "languageCode": "fa-IR"
+  },
+  {
+    "Language": "German ",
+    "languageCode": "de-DE"
+  },
+  {
+    "Language": "Swiss German ",
+    "languageCode": "de-CH"
+  },
+  {
+    "Language": "Hebrew ",
+    "languageCode": "he-IL"
+  },
+  {
+    "Language": "Indian Hindi ",
+    "languageCode": "hi-IN"
+  },
+  {
+    "Language": "Indonesian ",
+    "languageCode": "id-ID"
+  },
+  {
+    "Language": "Italian ",
+    "languageCode": "it-IT"
+  },
+  {
+    "Language": "Japanese ",
+    "languageCode": "ja-JP"
+  },
+  {
+    "Language": "Korean ",
+    "languageCode": "ko-KR"
+  },
+  {
+    "Language": "Malay ",
+    "languageCode": "ms-MY"
+  },
+  {
+    "Language": "Portuguese ",
+    "languageCode": "pt-PT"
+  },
+  {
+    "Language": "Brazilian Portuguese ",
+    "languageCode": "pt-BR"
+  },
+  {
+    "Language": "Russian ",
+    "languageCode": "ru-RU"
+  },
+  {
+    "Language": "Tamil ",
+    "languageCode": "ta-IN"
+  },
+  {
+    "Language": "Chinese Mandarin - Mainland ",
+    "languageCode": "zh-CN"
+  },
+  {
+    "Language": "Telugu ",
+    "languageCode": "te-IN"
+  },
+  {
+    "Language": "Turkish ",
+    "languageCode": "tr-TR"
+  }
+]

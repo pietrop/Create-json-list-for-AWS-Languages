@@ -28,9 +28,9 @@ const main = async () => {
   console.log(innerText);
   const list = parseTextToJsonList(innerText);
   console.log(list);
-  return list;
+  fs.writeFileSync('languages.json', JSON.stringify(list,null,2));
 };
 
-const languageList = main();
 
-fs.writeFileSync('languages.json', JSON.stringify(languageList,null,2));
+main();
+
