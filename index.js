@@ -10,8 +10,8 @@ const parseTextToJsonList = text => {
 
   return lines.map(language => {
     return {
-        Language: language.split("(")[0],
-        languageCode: language.split('(')[1].split(')')[0]
+        Language: language.split("(")[0].trim(),
+        languageCode: language.split('(')[1].split(')')[0].trim()
     };
   });
 };

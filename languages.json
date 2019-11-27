@@ -1,126 +1,126 @@
 [
   {
-    "Language": "Gulf Arabic ",
+    "Language": "Gulf Arabic",
     "languageCode": "ar-AE"
   },
   {
-    "Language": "Modern Standard Arabic ",
+    "Language": "Modern Standard Arabic",
     "languageCode": "ar-SA"
   },
   {
-    "Language": "Dutch ",
+    "Language": "Dutch",
     "languageCode": "nl-NL"
   },
   {
-    "Language": "Australian English ",
+    "Language": "Australian English",
     "languageCode": "en-AU"
   },
   {
-    "Language": "British English ",
+    "Language": "British English",
     "languageCode": "en-GB"
   },
   {
-    "Language": "Indian English ",
+    "Language": "Indian English",
     "languageCode": "en-IN"
   },
   {
-    "Language": "Irish English ",
+    "Language": "Irish English",
     "languageCode": "en-IE"
   },
   {
-    "Language": "Scottish English ",
+    "Language": "Scottish English",
     "languageCode": "en-AB"
   },
   {
-    "Language": "US English ",
+    "Language": "US English",
     "languageCode": "en-US"
   },
   {
-    "Language": "Welsh English ",
+    "Language": "Welsh English",
     "languageCode": "en-WL"
   },
   {
-    "Language": "Spanish ",
+    "Language": "Spanish",
     "languageCode": "es-ES"
   },
   {
-    "Language": "US Spanish ",
+    "Language": "US Spanish",
     "languageCode": "es-US"
   },
   {
-    "Language": "French ",
+    "Language": "French",
     "languageCode": "fr-FR"
   },
   {
-    "Language": "Canadian French ",
+    "Language": "Canadian French",
     "languageCode": "fr-CA"
   },
   {
-    "Language": "Farsi ",
+    "Language": "Farsi",
     "languageCode": "fa-IR"
   },
   {
-    "Language": "German ",
+    "Language": "German",
     "languageCode": "de-DE"
   },
   {
-    "Language": "Swiss German ",
+    "Language": "Swiss German",
     "languageCode": "de-CH"
   },
   {
-    "Language": "Hebrew ",
+    "Language": "Hebrew",
     "languageCode": "he-IL"
   },
   {
-    "Language": "Indian Hindi ",
+    "Language": "Indian Hindi",
     "languageCode": "hi-IN"
   },
   {
-    "Language": "Indonesian ",
+    "Language": "Indonesian",
     "languageCode": "id-ID"
   },
   {
-    "Language": "Italian ",
+    "Language": "Italian",
     "languageCode": "it-IT"
   },
   {
-    "Language": "Japanese ",
+    "Language": "Japanese",
     "languageCode": "ja-JP"
   },
   {
-    "Language": "Korean ",
+    "Language": "Korean",
     "languageCode": "ko-KR"
   },
   {
-    "Language": "Malay ",
+    "Language": "Malay",
     "languageCode": "ms-MY"
   },
   {
-    "Language": "Portuguese ",
+    "Language": "Portuguese",
     "languageCode": "pt-PT"
   },
   {
-    "Language": "Brazilian Portuguese ",
+    "Language": "Brazilian Portuguese",
     "languageCode": "pt-BR"
   },
   {
-    "Language": "Russian ",
+    "Language": "Russian",
     "languageCode": "ru-RU"
   },
   {
-    "Language": "Tamil ",
+    "Language": "Tamil",
     "languageCode": "ta-IN"
   },
   {
-    "Language": "Chinese Mandarin - Mainland ",
+    "Language": "Chinese Mandarin - Mainland",
     "languageCode": "zh-CN"
   },
   {
-    "Language": "Telugu ",
+    "Language": "Telugu",
     "languageCode": "te-IN"
   },
   {
-    "Language": "Turkish ",
+    "Language": "Turkish",
     "languageCode": "tr-TR"
   }
 ]
