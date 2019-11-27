@@ -1,0 +1,24 @@
+{
+  "name": "create-json-list-for-aws-languages",
+  "version": "1.0.0",
+  "description": "To make a list of AWS supported languages from [What Is Amazon Transcribe?](https://docs.aws.amazon.com/transcribe/latest/dg/what-is-transcribe.html)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietrop/Create-json-list-for-AWS-Languages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietrop/Create-json-list-for-AWS-Languages/issues"
+  },
+  "homepage": "https://github.com/pietrop/Create-json-list-for-AWS-Languages#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.1.16"
+  }
+}
